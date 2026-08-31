@@ -9,8 +9,10 @@ AI协作开发，面向软件测试方向。
 4. 使用unittest做断言校验响应码、返回数据
 
 ## 环境依赖
+pip install -r requirements.txt
 
 ## 运行方式
+python test_api.py
 
 ## AI协作说明
 - 使用Cursor做代码生成、调试排错
